@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+ Her..! I'm YAMINI SRI . 
+ Passionate about leveraging technology to build innovative solutions.
+ Constantly learning, growing, and pushing boundaries.
+ Let's collaborate and make an impact together! 🚀"
 <!--
 **Yamini-14sri/Yamini-14sri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
