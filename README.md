@@ -1,7 +1,7 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwwxThvN27agMA75bi18jkPkj2Patv5UpYQ&s)]
+[![MasterHead](https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif)]
 <h1 align="center">Hi 👋, I'm Yamini Sri</h1>
 <h3 align="center">A passionate about leveraging technology to build innovative solutions.</h3>
-<img align="right" alt="Coding"  width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&s">
+<img align="right" alt="Coding"  width="450" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamini-14sri&label=Profile%20views&color=0e75b6&style=flat" alt="yamini-14sri" /> </p>
 
